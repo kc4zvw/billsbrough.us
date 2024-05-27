@@ -1,0 +1,8 @@
+--2024-05-26 21:26:31--  https://www.orlando220.org/software/bubble3.txt
+Resolving www.orlando220.org (www.orlando220.org)... ::1, 45.88.201.117
+Connecting to www.orlando220.org (www.orlando220.org)|::1|:443... connected.
+WARNING: no certificate subject alternative name matches
+	requested host name ‘www.orlando220.org’.
+HTTP request sent, awaiting response... 404 Not Found
+2024-05-26 21:26:31 ERROR 404: Not Found.
+
